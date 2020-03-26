@@ -1,0 +1,18 @@
+.product{
+  float: left;
+  width: 30%;
+  margin: 0 1% 50px 2%;
+  background: rgb(215, 216, 216);
+}
+
+.content{
+ padding-left: 10px;
+}
+
+button{
+  margin-left: 30px;
+}
+
+img{
+  width: 100%;
+}

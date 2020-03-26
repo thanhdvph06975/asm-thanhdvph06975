@@ -1,6 +1,14 @@
-/* Add application styles & imports to this file! */
-body{
+*{
+box-sizing: border-box;
+}
+
+.full{
   width: 1100px;
+  height: 1200px;
   border: 1px solid black;
   margin: auto;
+}
+
+#logo{
+  width: 100%;
 }
