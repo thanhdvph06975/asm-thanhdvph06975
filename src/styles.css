@@ -1,6 +1,6 @@
 /* Add application styles & imports to this file! */
 body{
-  padding-left: 50px;
-  padding-right: 50px;
+  width: 1100px;
   border: 1px solid black;
+  margin: auto;
 }
