@@ -8,10 +8,10 @@
 			<th>Price</th>
 			<th>Action</th>
 		</tr>
-		<tr>
-			<td>1</td>
-			<td></td>
-			<td></td>
+		<tr *ngFor="let product of products,index as i">
+			<td>{{i}}</td>
+			<td>{{product.name}}</td>
+			<td>{{product.price}}$</td>
 			<td>
 				<button>Show detail</button>
 				<button>Remove</button>
