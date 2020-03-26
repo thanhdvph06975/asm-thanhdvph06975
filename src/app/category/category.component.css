@@ -6,7 +6,7 @@ box-sizing: border-box;
   width: 20%;
   float: left;
   height: 860px;
-  background-color: #4CAF50;
+  background-color: rgb(45, 189, 49);
 }
 
 .menu ul {
@@ -14,11 +14,11 @@ box-sizing: border-box;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #4CAF50;
+  background-color: rgb(45, 189, 49);
 }
 
 .menu li{
-  border: 1px solid rgb(236, 221, 221);
+  border-bottom: 1px solid white;
 }
 
 .menu li a {

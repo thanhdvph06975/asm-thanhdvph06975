@@ -1,14 +1,12 @@
-*{
-box-sizing: border-box;
+
+body{
+  background-image: url("https://kenh14cdn.com/thumb_w/500/04d50bbf2a/2015/11/24/c1-50b00.gif");
 }
-/* body{
-  background-image: url("https://i.pinimg.com/originals/81/64/a8/8164a8276c68b5fc78b5d4cb9b93db8f.gif");
-} */
 .full{
   position: relative;
   width: 1100px;
   height: 1400px;
-  border: 1px solid rgb(224, 214, 214);
+  /* border: 1px solid rgb(224, 214, 214); */
   margin: auto;
 }
 
