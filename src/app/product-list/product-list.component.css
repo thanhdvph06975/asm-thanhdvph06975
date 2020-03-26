@@ -5,6 +5,10 @@
   background: rgb(215, 216, 216);
 }
 
+.product:hover{
+  border: 1px solid black;
+}
+
 .content{
  padding-left: 10px;
 }
@@ -15,6 +19,8 @@ button{
   background: blue;
   color: white;
   height: 30px; 
+  border: none;
+  margin-bottom: 5px;
 }
 
 button:hover{

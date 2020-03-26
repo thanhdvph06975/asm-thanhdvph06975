@@ -1,0 +1,22 @@
+table th,tr,td{
+  border: 1px solid black;
+}
+
+th{
+  background: green;
+  color: white;
+}
+
+th,td{
+  text-align: center;
+  width: 25%;
+}
+
+table{
+  width: 100%;
+}
+
+#add{
+float: right;
+margin-bottom: 5px;
+}
