@@ -1,9 +1,9 @@
 *{
 box-sizing: border-box;
 }
-body{
+/* body{
   background-image: url("https://i.pinimg.com/originals/81/64/a8/8164a8276c68b5fc78b5d4cb9b93db8f.gif");
-}
+} */
 .full{
   position: relative;
   width: 1100px;
