@@ -5,6 +5,8 @@ box-sizing: border-box;
 .menu{
   width: 20%;
   float: left;
+  height: 860px;
+  background-color: #4CAF50;
 }
 
 .menu ul {
